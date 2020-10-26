@@ -1,2 +1,3 @@
 # machine-learning-foundations
-machine0
+
++ Machine Learning Algorithms
