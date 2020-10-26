@@ -1,3 +1,3 @@
-# machine-learning-foundations
+# Machine Learning Foundations
 
 + Machine Learning Algorithms
